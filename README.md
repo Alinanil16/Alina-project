@@ -25,6 +25,7 @@ Outside of academics, I’ve led marketing strategy for student organizations (a
 **Mortgage Market Discrimination Analysis**
 
 Econometric study using LPM, logit, and probit models
+
 	•	Investigates discrimination in loan approvals in the Boston mortgage market
 	•	Applies multiple models, evaluates fit, and interprets probability effects
 	•	Focus on race, income ratios, marital status, and household characteristics
@@ -32,6 +33,7 @@ Econometric study using LPM, logit, and probit models
 **Missionary Presence & Economic Development Mapping**
 
 Historical data cleaning + geospatial visualization
+
 	•	Cleaned provincial-level datasets from Zhejiang, Fujian, and Anhui
 	•	Built maps visualizing missionary expansion and economic indicators
 	•	Combined history, data, and geospatial storytelling
